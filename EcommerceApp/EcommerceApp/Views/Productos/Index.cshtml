@@ -1,0 +1,24 @@
+﻿@model List<EcommerceApp.Models.Producto>
+@{
+    ViewData["Title"] = "Catálogo";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Catálogo de Productos</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <img src="@item.ImagenUrl" class="card-img-top" alt="@item.Nombre">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Nombre</h5>
+                        <p class="card-text">@item.Descripcion</p>
+                        <p class="card-text text-success fw-bold">$@item.Precio</p>
+                        <a href="/Productos/Detalle/@item.Id" class="btn btn-primary">Ver Detalle</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
