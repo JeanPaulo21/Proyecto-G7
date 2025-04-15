@@ -32,3 +32,38 @@ C:\Users\chris\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net8.0\refint\Ec
 C:\Users\chris\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.pdb
 C:\Users\chris\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.genruntimeconfig.cache
 C:\Users\chris\source\repos\EcommerceApp\EcommerceApp\obj\Debug\net8.0\ref\EcommerceApp.dll
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\appsettings.Development.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\appsettings.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\EcommerceApp.staticwebassets.runtime.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\EcommerceApp.staticwebassets.endpoints.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\EcommerceApp.exe
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\EcommerceApp.deps.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\EcommerceApp.runtimeconfig.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\EcommerceApp.dll
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\bin\Debug\net8.0\EcommerceApp.pdb
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.AssemblyInfoInputs.cache
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.AssemblyInfo.cs
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.MvcApplicationPartsAssemblyInfo.cache
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.RazorAssemblyInfo.cache
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.RazorAssemblyInfo.cs
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.sourcelink.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\scopedcss\bundle\EcommerceApp.styles.css
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\scopedcss\projectbundle\EcommerceApp.bundle.scp.css
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.EcommerceApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.EcommerceApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EcommerceApp.props
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceApp.props
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcommerceApp.props
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.dll
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\refint\EcommerceApp.dll
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.pdb
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.genruntimeconfig.cache
+E:\UNIVERSIDAD 6CUATRI\PROGRA AVANZADA\proyecto\Proyecto-G7\Proyecto-G7\EcommerceApp\EcommerceApp\obj\Debug\net8.0\ref\EcommerceApp.dll

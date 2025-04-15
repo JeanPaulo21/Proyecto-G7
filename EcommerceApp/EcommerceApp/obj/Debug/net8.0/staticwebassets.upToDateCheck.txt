@@ -1,6 +1,26 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\img\r.jpg
+wwwroot\img\camisa_nike_academy.jpg
+wwwroot\img\camisa_nike_air.jpg
+wwwroot\img\camisa_nike_air_max.jpg
+wwwroot\img\camisa_nike_dri_fit.jpg
+wwwroot\img\camisa_nike_pro.jpg
+wwwroot\img\camisa_nike_running.jpg
+wwwroot\img\camisa_nike_sportswear.jpg
+wwwroot\img\camisa_nike_tech_pack.jpg
+wwwroot\img\camisa_nike_therma_fit.jpg
+wwwroot\img\camisa_nike_vapor.jpg
+wwwroot\img\Tenis Nike ZoomX Vaporfly.jpg
+wwwroot\img\tenis_nike_air_force_1.jpg
+wwwroot\img\tenis_nike_air_max_270.jpg
+wwwroot\img\tenis_nike_air_zoom.jpg
+wwwroot\img\tenis_nike_free_rn_5.jpg
+wwwroot\img\tenis_nike_joyride_run.jpg
+wwwroot\img\tenis_nike_pegasus_39.jpg
+wwwroot\img\tenis_nike_react_infinity_run.jpg
+wwwroot\img\tenis_nike_sb_dunk.jpg
+wwwroot\img\tenis_nike_zoom_fly.jpg
+wwwroot\img\tenis_nike_zoomx_vaporfly.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

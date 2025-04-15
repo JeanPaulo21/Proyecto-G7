@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\source\\repos\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {}
+    "E:\\UNIVERSIDAD 6CUATRI\\PROGRA AVANZADA\\proyecto\\Proyecto-G7\\Proyecto-G7\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\source\\repos\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {
+    "E:\\UNIVERSIDAD 6CUATRI\\PROGRA AVANZADA\\proyecto\\Proyecto-G7\\Proyecto-G7\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
+        "projectUniqueName": "E:\\UNIVERSIDAD 6CUATRI\\PROGRA AVANZADA\\proyecto\\Proyecto-G7\\Proyecto-G7\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
         "projectName": "EcommerceApp",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
+        "projectPath": "E:\\UNIVERSIDAD 6CUATRI\\PROGRA AVANZADA\\proyecto\\Proyecto-G7\\Proyecto-G7\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\EcommerceApp\\EcommerceApp\\obj\\",
+        "outputPath": "E:\\UNIVERSIDAD 6CUATRI\\PROGRA AVANZADA\\proyecto\\Proyecto-G7\\Proyecto-G7\\EcommerceApp\\EcommerceApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

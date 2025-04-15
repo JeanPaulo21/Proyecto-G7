@@ -20,3 +20,22 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+.producto-card {
+    transition: transform 0.3s ease;
+}
+
+    .producto-card:hover {
+        transform: scale(1.03);
+    }
+
+.producto-img {
+    transition: transform 0.4s ease;
+    height: 300px;
+    object-fit: contain;
+}
+
+.producto-card:hover .producto-img {
+    transform: scale(1.1);
+}
