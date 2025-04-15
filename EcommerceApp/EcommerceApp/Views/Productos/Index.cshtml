@@ -5,10 +5,21 @@
 
 <div class="container mt-5">
     <h2 class="mb-4">Catálogo de Productos</h2>
-    <div class="row">
+
+    <!-- Filtro de categoría -->
+    <div class="mb-4">
+        <label for="categoriaSelect" class="form-label fw-bold">Filtrar por categoría:</label>
+        <select id="categoriaSelect" class="form-select w-auto">
+            <option value="Todas">Todas</option>
+            <option value="Camisas">Camisas</option>
+            <option value="Tenis">Tenis</option>
+        </select>
+    </div>
+
+    <div class="row" id="productosContainer">
         @foreach (var item in Model)
         {
-            <div class="col-md-4 mb-4">
+            <div class="col-md-4 mb-4 producto-item" data-categoria="@item.Categoria">
                 <div class="card h-100 shadow-sm d-flex flex-column justify-content-between producto-card">
                     <div class="overflow-hidden text-center p-3">
                         <img src="@Url.Content("~" + item.ImagenUrl)"
@@ -27,3 +38,6 @@
     </div>
 </div>
 
+@section Scripts {
+    <script src="~/js/filtroCategorias.js"></script>
+}

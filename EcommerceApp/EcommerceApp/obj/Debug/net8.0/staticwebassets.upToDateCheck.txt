@@ -21,6 +21,7 @@ wwwroot\img\tenis_nike_react_infinity_run.jpg
 wwwroot\img\tenis_nike_sb_dunk.jpg
 wwwroot\img\tenis_nike_zoom_fly.jpg
 wwwroot\img\tenis_nike_zoomx_vaporfly.jpg
+wwwroot\js\filtroCategorias.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
