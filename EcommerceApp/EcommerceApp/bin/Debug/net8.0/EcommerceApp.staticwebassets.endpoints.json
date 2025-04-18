@@ -1971,6 +1971,88 @@
       ]
     },
     {
+      "Route": "js/filtroCategorias.2bkqttlyqx.js",
+      "AssetFile": "js/filtroCategorias.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 06:08:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2bkqttlyqx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk="
+        },
+        {
+          "Name": "label",
+          "Value": "js/filtroCategorias.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/filtroCategorias.js",
+      "AssetFile": "js/filtroCategorias.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 06:08:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js",
       "Selectors": [],

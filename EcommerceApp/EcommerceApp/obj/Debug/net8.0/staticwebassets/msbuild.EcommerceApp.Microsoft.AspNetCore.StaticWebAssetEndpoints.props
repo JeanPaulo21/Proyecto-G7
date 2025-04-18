@@ -288,6 +288,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y5jrtolrn8"},{"Name":"integrity","Value":"sha256-OrkxWhYO98\u002BFqstOCteBLjhv0/uWQV/zQIHlL6j0bq0="},{"Name":"label","Value":"_content/EcommerceApp/img/tenis_nike_zoom_fly.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34696"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OrkxWhYO98\u002BFqstOCteBLjhv0/uWQV/zQIHlL6j0bq0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 01:56:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceApp/js/filtroCategorias.2bkqttlyqx.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\filtroCategorias.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2bkqttlyqx"},{"Name":"integrity","Value":"sha256-ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk="},{"Name":"label","Value":"_content/EcommerceApp/js/filtroCategorias.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"703"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 06:08:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EcommerceApp/js/filtroCategorias.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\filtroCategorias.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"703"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ToodUchJmvgGWwTPOQJedzabTdpf8c0Xqrvr1BrmWbk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 06:08:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EcommerceApp/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
